@@ -1,0 +1,14 @@
+{
+  "name": "drypto",
+  "version": "1.0.0",
+  "description": "drypto with cypress automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manpreet Bains",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.1.0"
+  }
+}
